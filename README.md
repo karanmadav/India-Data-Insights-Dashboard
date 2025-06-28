@@ -31,12 +31,6 @@ This Power BI project presents a detailed analysis of sales, profit, and targets
 
 ---
 
-## 📅 Duration
-
-**March 2025 – June 2025**
-
----
-
 ## 👨‍💻 Author
 
 **Karan Madav**  
